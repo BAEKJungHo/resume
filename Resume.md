@@ -24,5 +24,8 @@
     - 중점관리대상사업현황(관리자, 사용자)
     - DataBase Migration Code 작성(이관 스크립트 및 운영서버에서 이관하기 위한 이관 컨트롤러 작성)
     - 감리문서 작성
+    - 등..
+    
+    > [6개월차 신입 개발자의 회고록](https://medium.com/webeveloper/6%EA%B0%9C%EC%9B%94%EC%B0%A8-%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-2019%EB%85%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D-8781a998e844)
 
   - `한국 조폐공사 수정사항 관리`
