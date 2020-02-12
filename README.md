@@ -1,5 +1,8 @@
 # Resume
 
+- [My Medium Blog : WEBEVELOPER](https://medium.com/webeveloper)
+- [My GitHub Blog : BAEKJH](https://baekjungho.github.io/)
+
 ## (주) 메이아이(2019-07-01 ~ ing)
 
 - 2019-07.01 ~ 2019-08-31
