@@ -45,6 +45,8 @@
     - 단과대 메인 페이지 작업(팝업, 공지, 일정 비동기로 출력)
     - DataBase Migration(URL 하나로 게시판 전체 이관 가능하게 개발)
     
+    > [9개월차 개발자의 두 번째 프로젝트 회고록](https://medium.com/webeveloper/9%EA%B0%9C%EC%9B%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%91%90-%EB%B2%88%EC%A7%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EB%A7%88%EC%B9%9C-%ED%9B%84-%EB%8A%90%EB%82%80-%EC%A0%90-c9978ee42070)
+    
 - 2020-04-11 ~ 
   - `공주대학교 수정사항`
   - `명랑핫도그 국문/영문 서버 분리`
