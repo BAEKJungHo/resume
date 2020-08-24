@@ -81,7 +81,7 @@
     
 - 2020-09-10 ~ 2020-11-10
   - 👊 목표
-    - cheese10yun 님의 spring-guide 를 보면서 Exception 처리를 더 신경쓰자
+    - __cheese10yun 님의 spring-guide 를 보면서 Exception 처리를 더 신경쓰자__
     - 도메인 객체에 대한 제어는 도메인 객체가 직접 담당하게끔 신경쓰자
     - 서비스를 행위 기반으로 네이밍 해보기 
     - ConstraintValidator 를 통한 검증을 실시해보자
