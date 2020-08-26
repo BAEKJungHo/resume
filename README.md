@@ -8,7 +8,7 @@
 - 2019-07.01 ~ 2019-08-31
   - 👊 목표 : __CMS 사용에 익숙해지자__
   - `CMS 관리`
-    - [Spring Boot 1.5.4 (using JDK 1.7, Spring Framework 4.3.9 RELEASE or above.)](https://docs.spring.io/spring-boot/docs/1.5.4.RELEASE/reference/htmlsingle/)
+    - [Spring Boot 1.5.4 (using JDK 1.7, Spring Framework 4.3.9 RELEASE or above)](https://docs.spring.io/spring-boot/docs/1.5.4.RELEASE/reference/htmlsingle/)
   
 - 2019-09-01 ~ 2019-12-31
   - 👊 목표 : __많은 프로그램을 개발하면서 컨벤션 규칙과, 웹 개발 흐름에 대해 이해하자__
