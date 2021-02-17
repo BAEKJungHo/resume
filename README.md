@@ -6,9 +6,12 @@
   <p>노력은 배신하지 않는다.</p>
 </details>
 
-# Motto
-
-- 노력은 배신하지 않는다.
+<details>
+  <summary>Blog</summary>
+  </br>
+  <p>[Medium](https://medium.com/webeveloper)</p>
+  <p>[GitHub](https://baekjungho.github.io)</p>
+</details>
 
 # Blog
 
