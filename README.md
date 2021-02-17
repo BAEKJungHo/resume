@@ -1,6 +1,17 @@
 # Resume
 
 <details>
+  <summary>Profile</summary>
+  </br>
+  <p>이름 : 백정호</p>
+  <p>생년월일 : 940502</p>
+  <p>포지션 : BE Developer</p>
+  <p>취미 : 헬스, 게임, 공부</p>
+  <p>MBTI : ISFJ</p>
+  <p>특징 : 목표 지향적이며 계획적인 사람</p>
+</details>
+
+<details>
   <summary>Motto</summary>
   </br>
   <p>노력은 배신하지 않는다.</p>
@@ -9,24 +20,32 @@
 <details>
   <summary>Blog</summary>
   </br>
-  <p>[Medium](https://medium.com/webeveloper)</p>
-  <p>[GitHub](https://baekjungho.github.io)</p>
+  <p>Medium : https://medium.com/webeveloper</p>
+  <p>GitHub : https://baekjungho.github.io</p>
 </details>
 
-# Blog
+<details>
+  <summary>내가 되고 싶은 개발자</summary>
+  </br>
+  <p>다른 사람들이 잘 이해할 수 있도록 코드를 짜는 개발자</p>
+  <p>의사소통이 원활한 개발자</p>
+  <p>항상 배우고자 하는 마인드를 가진 개발자</p>
+  <p>객체지향, 함수형 프로그래밍을 잘하는 개발자</p>
+  <p>리팩터링과 디자인 패턴을 잘 사용하는 개발자</p>
+  <p>테스트 코드 작성을 잘 하는 개발자</p>
+  <p>꾸준하게 자기관리 열심히 하는 개발자</p>
+</details>
 
-- [Medium](https://medium.com/webeveloper)
-- [GitHub](https://baekjungho.github.io/)
-
-# 내가 되고 싶은 개발자
-
-- 다른 사람들이 잘 이해할 수 있도록 코드를 짜는 개발자
-- 의사소통이 원활한 개발자
-- 항상 배우고자 하는 마인드를 가진 개발자
-- 객체지향, 함수형 프로그래밍을 잘하는 개발자
-- 리팩터링과 디자인 패턴을 잘 사용하는 개발자
-- 테스트 코드 작성을 잘 하는 개발자
-- 꾸준하게 자기관리 열심히 하는 개발자
+<details>
+  <summary>프로젝트 경험</summary>
+  </br>
+  <details>
+    <summary>(주)메이아이</summary>
+    </br>
+    <p>2019-07-01 ~ ing</p>
+    <p>CMS 관리</p>
+  </details>
+</details>
 
 # Company
 
