@@ -1,20 +1,21 @@
 # Resume
 
 <details>
-  <summary>Profile</summary>
+  <summary>⭐Profile</summary>
   </br>
-  <p>이름 : 백정호</p>
-  <p>생년월일 : 940502</p>
-  <p>포지션 : BE Developer</p>
-  <p>취미 : 헬스, 게임, 공부</p>
-  <p>MBTI : ISFJ</p>
-  <p>특징 : 목표 지향적이며 계획적인 사람</p>
+  <p>📌이름 : 백정호</p>
+  <p>📌생년월일 : 940502</p>
+  <p>📌포지션 : BE Developer</p>
+  <p>📌취미 : 헬스, 게임, 공부</p>
+  <p>📌MBTI : ISFJ</p>
+  <p>📌특징 : 목표 지향적이며 계획적인 사람</p>
+  <p>📌KAKAO TALK : qorwdjgh13</p>
 </details>
 
 <details>
   <summary>⭐Motto</summary>
   </br>
-  <p>노력은 배신하지 않는다.</p>
+  <p>📌노력은 배신하지 않는다.</p>
 </details>
 
 <details>
@@ -40,10 +41,19 @@
   <summary>⭐프로젝트 경험</summary>
   </br>
   <details>
-    <summary>🌃(주)메이아이</summary>
+    <summary>🌃(주)메이아이 : 2019-07-01 ~ ing</summary>
     </br>
-    <p>2019-07-01 ~ ing</p>
-    <p>CMS 관리</p>
+    <details>
+      <summary>📌CMS 관리(2019-07.01 ~ 2019-08-31)</summary>
+      </br>
+      <p>Spring Boot 1.5.4 (using JDK 1.7, Spring Framework 4.3.9 RELEASE or above</p>
+    </details>
+    <details>
+      <summary>📌대전 동구청 홈페이지 개발(2019-09-01 ~ 2019-12-31)</summary>
+      </br>
+      <p>민원사무편람(관리자, 사용자)</p>
+      <p>만족도조사(사용자)</p>
+    </details>
   </details>
 </details>
 
