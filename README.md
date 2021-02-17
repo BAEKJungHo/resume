@@ -1,4 +1,4 @@
-# Resume
+# Plz read my resume
 
 <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="500"> 
 
