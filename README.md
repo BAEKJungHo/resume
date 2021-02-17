@@ -1,6 +1,6 @@
 # Resume
 
-<img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="1000"> 
+<img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="500"> 
 
 <details>
   <summary>⭐Profile</summary>
