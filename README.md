@@ -1,5 +1,7 @@
 # Resume
 
+<img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="600"> 
+
 <details>
   <summary>⭐Profile</summary>
   </br>
