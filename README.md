@@ -138,7 +138,7 @@
     - 동영상 관리
     - 더보기 모듈 개발
 
-    > 다형성, OCP, SRP 를 최대한 지키기 위해서 노력. 해당 모듈을 설계한 후 다형성과 연관지어 [블로그](https://baekjungho.github.io/oop-polymorphism/)에 정리
+    > 다형성, DIP, OCP, SRP 를 최대한 지키기 위해서 노력. 해당 모듈을 설계한 후 다형성과 연관지어 [블로그](https://baekjungho.github.io/oop-polymorphism/)에 정리
 
     - 관리자 채널 관리
     - 관리자 통계
