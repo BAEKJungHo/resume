@@ -1,3 +1,11 @@
+# Resume
+
+<details>
+  <summary>Motto</summary>
+  </br>
+  <p>노력은 배신하지 않는다.</p>
+</details>
+
 # Motto
 
 - 노력은 배신하지 않는다.
