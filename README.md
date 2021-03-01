@@ -171,19 +171,16 @@
   </details>
 </details>
 
-## Languages and Tools
+## 보유 기술 및 사용도구
 
-- Java
-- Spring
-- SpringBoot
-- Javascript
-- MySQL
-- PostgreSQL
-- Tibero
-- H2
-- Oracle
-- AWS
-- Tomcat
-- Jeus
-- Git(GitHub, GitLab)
+### 웹 백엔드
+
+- 자바와 스프링을 이용한 웹 백엔드 개발을 주력으로 합니다.
+- 객체지향 프로그래밍을 할 수 있습니다.
+- 유지보수성과 재사용성이 좋은 코드를 작성하는 것에 대한 생각을 항상 합니다.
+
+### 디자인 패턴과 리팩터링
+
+- 적절한 상황에서 디자인 패턴과 리팩터링을 이용해서 OOP 및 유지보수성이 좋은 프로그램을 만들기 위해 노력합니다.
+- 유비쿼터스 언어를 소프트웨어에 적용할 수 있도록 노력합니다.
 
