@@ -44,7 +44,7 @@
     <summary>🌃(주)메이아이 : 2019-07-01 ~ ing</summary>
     </br>
     <details>
-      <summary>📌CMS 관리(2019-07.01 ~ 2019-08-31)</summary>
+      <summary>📌CMS 관리(2019-07-01 ~ 2019-08-31)</summary>
       </br>
       <p>Spring Boot 1.5.4 (using JDK 1.7, Spring Framework 4.3.9 RELEASE or above</p>
     </details>
