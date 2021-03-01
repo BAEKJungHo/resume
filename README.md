@@ -23,15 +23,21 @@
 - `GitHub` : https://baekjungho.github.io
   - Medium 과 관련없이 개인적으로 정리하고싶은 내용들을 정리하는 블로그이다.
 
-<details>
-  <summary>⭐내가 되고 싶은 개발자</summary>
-  </br>
-  <p>📌다른 사람들이 잘 이해할 수 있도록 코드를 짜는 개발자</p>
-  <p>📌설득 당할 수 있는 개발자</p>
-  <p>📌의사소통이 원활한 개발자</p>
-  <p>📌항상 배우고자 하는 마인드를 가진 개발자</p>
-  <p>📌꾸준하게 자기관리 열심히 하는 개발자</p>
-</details>
+## Ideal
+
+- 다른 사람들이 잘 이해할 수 있도록 코드를 짜는 개발자
+- 설득 당할 수 있는 개발자
+- 의사소통이 원활한 개발자
+- 항상 배우고자 하는 마인드를 가진 개발자
+- 꾸준하게 자기관리 열심히 하는 개발자
+
+> 개발자 이기 전에 좋은 사람이 되고자 항상 노력한다.
+
+## Company
+
+- (주)메이아이 : 2019-07-01 ~ ing
+
+## Project
 
 <details>
   <summary>⭐프로젝트 경험</summary>
@@ -163,12 +169,4 @@
       <p>통합검색(채널, 영상 추가)</p>
     </details>
   </details>
-</details>
-
-<details>
-  <summary>⭐Post</summary>
-  </br>
-  <p>📌6개월차 신입 개발자의 회고록 : https://medium.com/webeveloper/6%EA%B0%9C%EC%9B%94%EC%B0%A8-%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-2019%EB%85%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D-8781a998e844</p>
-  <p>📌9개월차 개발자의 두 번째 프로젝트 회고록 : https://medium.com/webeveloper/9%EA%B0%9C%EC%9B%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%91%90-%EB%B2%88%EC%A7%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EB%A7%88%EC%B9%9C-%ED%9B%84-%EB%8A%90%EB%82%80-%EC%A0%90-c9978ee42070</p>
-  <p>📌SI 계열에서 기획자와 일하는 개발자의 자세 : https://medium.com/webeveloper/si-%EA%B3%84%EC%97%B4%EC%97%90%EC%84%9C-%EA%B8%B0%ED%9A%8D%EC%9E%90%EC%99%80-%EC%9D%BC%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%9E%90%EC%84%B8-b001389243a1</p>
 </details>
