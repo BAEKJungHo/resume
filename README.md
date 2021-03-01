@@ -170,3 +170,20 @@
     </details>
   </details>
 </details>
+
+## Languages and Tools
+
+- Java
+- Spring
+- SpringBoot
+- Javascript
+- MySQL
+- PostgreSQL
+- Tibero
+- H2
+- Oracle
+- AWS
+- Tomcat
+- Jeus
+- Git(GitHub, GitLab)
+
