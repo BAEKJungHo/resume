@@ -11,18 +11,17 @@
 - 특징 : 목표 지향적이며 계획적인 사람
 - KAKAO TALK : qorwdjgh13
 
-<details>
-  <summary>⭐Motto</summary>
-  </br>
-  <p>📌노력은 배신하지 않는다.</p>
-</details>
+## Motto
 
-<details>
-  <summary>⭐Blog</summary>
-  </br>
-  <p>🏠 Medium : https://webdevtechblog.com</p>
-  <p>🏠 GitHub : https://baekjungho.github.io</p>
-</details>
+노력은 배신하지 않는다.
+
+## Blog
+
+- `Medium` : https://webdevtechblog.com
+  - 현재 이 블로그는 웹 개발자들을 위한 웹에 관한 내용들을 전반적으로 포스팅하고 있고 Writer 는 현재 나 뿐이지만, 글쓰고 공부하길 좋아하는 사람들 중 마음 맞는 사람들을 찾아서 다양한 글이 올라 올 수 있게 하는 것이 목표이다.
+  - 아무래도 구글 노출이 GitHub Blog 보다는 상당히 잘 되므로, 글 쓸때 더 노력을 기울이고 좋은 내용을 담고있는 글을 쓰고자 한다.
+- `GitHub` : https://baekjungho.github.io
+  - Medium 과 관련없이 개인적으로 정리하고싶은 내용들을 정리하는 블로그이다.
 
 <details>
   <summary>⭐내가 되고 싶은 개발자</summary>
