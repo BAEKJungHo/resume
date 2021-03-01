@@ -2,17 +2,14 @@
 
 <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="500"> 
 
-<details>
-  <summary>⭐Profile</summary>
-  </br>
-  <p>📌이름 : 백정호</p>
-  <p>📌생년월일 : 940502</p>
-  <p>📌포지션 : BE Developer</p>
-  <p>📌취미 : 헬스, 게임, 공부</p>
-  <p>📌MBTI : ISFJ</p>
-  <p>📌특징 : 목표 지향적이며 계획적인 사람</p>
-  <p>📌KAKAO TALK : qorwdjgh13</p>
-</details>
+## Profile
+
+- 이름 : 백정호
+- 생년월일 : 940502
+- 취미 : 헬스, 게임, 공부
+- MBTI : ISFJ
+- 특징 : 목표 지향적이며 계획적인 사람
+- KAKAO TALK : qorwdjgh13
 
 <details>
   <summary>⭐Motto</summary>
