@@ -1,3 +1,5 @@
+![logo](images/rlogo.JPG)
+
 # 프로필
 
 - 이름 : 백정호
