@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="500"> 
 
-## Profile
+## 프로필
 
 - 이름 : 백정호
 - 생년월일 : 940502
@@ -11,11 +11,11 @@
 - 특징 : 목표 지향적이며 계획적인 사람
 - KAKAO TALK : qorwdjgh13
 
-## Motto
+## 모토
 
 노력은 배신하지 않는다.
 
-## Blog
+## 블로그
 
 - `Medium` : https://webdevtechblog.com
   - 현재 이 블로그는 웹 개발자들을 위한 웹에 관한 내용들을 전반적으로 포스팅하고 있고 Writer 는 현재 나 뿐이지만, 글쓰고 공부하길 좋아하는 사람들 중 마음 맞는 사람들을 찾아서 다양한 글이 올라 올 수 있게 하는 것이 목표이다.
@@ -23,7 +23,7 @@
 - `GitHub` : https://baekjungho.github.io
   - Medium 과 관련없이 개인적으로 정리하고싶은 내용들을 정리하는 블로그이다.
 
-## Ideal
+## 이상향
 
 - 다른 사람들이 잘 이해할 수 있도록 코드를 짜는 개발자
 - 설득 당할 수 있는 개발자
@@ -33,11 +33,11 @@
 
 > 개발자 이기 전에 좋은 사람이 되고자 항상 노력한다.
 
-## Company
+## 경력
 
 - (주)메이아이 : 2019-07-01 ~ ing
 
-## Project
+## 프로젝트
 
 <details>
   <summary>⭐프로젝트 경험</summary>
