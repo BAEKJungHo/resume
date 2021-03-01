@@ -38,7 +38,7 @@
 # 프로젝트
 
 <details>
-  <summary>⭐프로젝트 경험</summary>
+  <summary>Show Details</summary>
   </br>
   <details>
     <summary>🌃(주)메이아이 : 2019-07-01 ~ ing</summary>
