@@ -12,7 +12,6 @@
   <p>📌MBTI : ISFJ</p>
   <p>📌특징 : 목표 지향적이며 계획적인 사람</p>
   <p>📌KAKAO TALK : qorwdjgh13</p>
-  <img src="https://github.com/BAEKJungHo/resume/blob/master/images/resume.PNG">
 </details>
 
 <details>
