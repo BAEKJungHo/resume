@@ -23,7 +23,7 @@
 <details>
   <summary>⭐Blog</summary>
   </br>
-  <p>🏠 Medium : https://medium.com/webeveloper</p>
+  <p>🏠 Medium : https://webdevtechblog.com</p>
   <p>🏠 GitHub : https://baekjungho.github.io</p>
 </details>
 
