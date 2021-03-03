@@ -140,9 +140,9 @@
       <p>DataBase Migration</p>
     </details>
     <details>
-      <summary>📌한국 조폐공사 수정사항 관리</summary>
+      <summary>📌한국 조폐공사 수정사항 처리(2019-12)</summary>
       </br>
-      <p>수정사항</p>
+      <p>수정사항 처리</p>
     </details>
     <details>
       <summary>📌대전 동구청 홈페이지 개발(2019-09-01 ~ 2019-12-31)</summary>
