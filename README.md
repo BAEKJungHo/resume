@@ -39,13 +39,16 @@
   <summary>Show Details</summary>
   </br>
   <details>
+    <summary>🌃(주)메이아이 : 2019-07-01 ~ ing</summary>
+    </br>
+    <details>
       <summary>📌일제강제동원피해자지원재단(2021-03-02 ~ 2021-05-10)</summary>
       </br>
       <p>프로젝트 메인 개발자로 투입</p>
       <p>사수로서 신입 교육 및 양성</p>
       <p>게시판 및 프로그램 개발</p>
     </details>
-  <details>
+    <details>
       <summary>📌소상공인 지식나눔터 개발(2020-12-15 ~ 2021-02-01)</summary>
       </br>
       <p>전체적인 테이블 설계</p>
@@ -56,7 +59,7 @@
       <p>통계</p>
       <p>통합검색(채널, 영상 추가)</p>
     </details>
-  <details>
+    <details>
       <summary>📌여성인재 DB 관리 시스템 개발(2020-11-15 ~ 2020-12-31)</summary>
       </br>
       <p>직종관리</p>
@@ -64,7 +67,7 @@
       <p>회원관리</p>
       <p>통계</p>
     </details>
-  <details>
+    <details>
       <summary>📌수자원공사 단비톡톡 추가 개발 및 기능 개선(2020-10-11 ~ 2020-11-15)</summary>
       </br>
       <p>회원가입</p>
@@ -85,15 +88,12 @@
       <p>설문조사 통계 엑셀 다운로드</p>
       <p>SSO 연계</p>
       <p>DataBase Migration</p>
-    </details>
-  <details>
+      </details>
+    <details>
       <summary>📌CMS 리팩터링(2020-05-21 ~ 2020-06-04)</summary>
       </br>
       <p>CMS 리팩터링</p>
     </details>
-  <details>
-    <summary>🌃(주)메이아이 : 2019-07-01 ~ ing</summary>
-    </br>
     <details>
       <summary>📌디자인시안 관리 프로그램 개발(2020-10-01 ~ 2020-10-10)</summary>
       </br>
