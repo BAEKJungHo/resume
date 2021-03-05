@@ -31,52 +31,10 @@
 |**소상공인<br/>지식나눔터<br/>신규 구축**|2020-12-15~<br/>2021-03-01|IntelliJ, Spring Boot 1.5.4, JDK 1.7, JSP, Javascript, Oracle|- 전체적인 테이블 설계<br/>- 동영상 관리<br />- 더보기 모듈 개발<br/>- 관리자 채널 관리<br/>- 통계<br/>- 통합검색(채널,영상 추가)|
 |**여성인재<br/>데이터베이스<br/>신규 구축**|2020-11-15~<br/>2020-12-31|IntelliJ, Spring Boot 1.5.4, JDK 1.8, JSP, Javascript, Oracle|- 직종 관리<br/>- 전문분야 관리<br />- 회원 관리<br/>- 통계|
 |**수자원공사<br/>단비톡톡<br/>추가기능개발**|2020-10-11~<br/>2020-11-15|IntelliJ, Spring Boot 1.5.4, JDK 1.7, JSP, Javascript, Oracle|- 회원관리<br/>- 마일리지 적립/차감<br />- 엑셀 데이터 업로드<br/>- 마일리지 상품구매<br/>- 알림(SMS, EMAIL)<br/>- 본인인증<br/>- 통계<br/>- SSO연계<br/>- DataBase Migration|
-
-    <details>
-      <summary>📌수자원공사 단비톡톡 추가 개발 및 기능 개선(2020-10-11 ~ 2020-11-15)</summary>
-      </br>
-      <p><strong>* Tool : IntelliJ</strong></p>
-      <p><strong>* Environment : Spring Boot 1.5.4, JDK 1.7, JSP, Oracle</strong></p>
-      <p><strong>* 특이사항 : 개발서버 Tomcat7, 운영서버 : Jeus6</strong></p>
-      </br>
-      </br>
-      <p>회원가입</p>
-      <p>회원정보수정</p>
-      <p>아이디/비밀번호 찾기</p>
-      <p>휴면상태해제처리</p>
-      <p>비밀번호변경</p>
-      <p>비밀번호초기화</p>
-      <p>회원탈퇴</p>
-      <p>마일리지 적립</p>
-      <p>마일리지 차감</p>
-      <p>엑셀 데이터 업로드</p>
-      <p>마일리지 적립한도</p>
-      <p>마일리지 상품 구매</p>
-      <p>협력을 "마일리지 적립과 차감" 으로 보고 역할을 "마일리지 적립", "마일리지 차감" 으로 분리. 역할은 곧 책임을 암시. 적립과 차감 조건이 여러개여서, 각 조건에 따라 다르게 동작해야 하므로 전략 패턴을 이용하여 문제 해결.</p>
-      <p>알림 서비스(SMS, EMAIL)</p>
-      <p>본인인증</p>
-      <p>설문조사 통계 엑셀 다운로드</p>
-      <p>SSO 연계</p>
-      <p>DataBase Migration</p>
-      </details>
-    <details>
-      <summary>📌CMS 리팩터링(2020-05-21 ~ 2020-06-04)</summary>
-      </br>
-      <p><strong>* Tool : IntelliJ</strong></p>
-      <p><strong>* Environment : Spring Boot 1.5.4, JDK 1.7, JSP, MySQL</strong></p>
-      </br>
-      </br>
-      <p>CMS 리팩터링</p>
-    </details>
-    <details>
-      <summary>📌디자인시안 관리 프로그램 개발(2020-10-01 ~ 2020-10-10)</summary>
-      </br>
-      <p><strong>* Tool : IntelliJ</strong></p>
-      <p><strong>* Environment : Spring Boot 1.5.4, JDK 1.8, JSP, MySQL</strong></p>
-      </br>
-      </br>
-      <p>디자인시안 관리 프로그램 개발</p>
-    </details>
+|**CMS 리팩터링**|2020-05-21~<br/>2020-06-04|IntelliJ, Spring Boot 1.5.4, JDK 1.7, JSP, Javascript, MySQL|- 게시판 관리<br/>- 권한 관리<br />- 카테고리 관리<br/>- 팝업 관리|
+|**디자인시안<br/>관리 프로그램<br/>신규 구축**|2020-10-01~<br/>2020-10-10|IntelliJ, Spring Boot 1.5.4, JDK 1.8, JSP, Javascript, MySQL|- 디자인시안 관리<br/>- 설문 참여<br />- 통계|   
+|**소상공인<br/>확인서 발급 시스템<br/>신규 구축**|2020-06-15~<br/>2020-09-31|IntelliJ, Spring Boot 1.5.4, JDK 1.8, JDK 1.6, JSP, Javascript, Oracle|- 내부DB와 로그인 연동<br/>- Jeus8 app 소스배포<br />- 개인정보이력 AOP<br/>- SMS AOP, Scheduler<br/>- 권한 처리<br/>- 엑셀다운로드<br/>- 본인인증<br/>- SSO연계<br/>- 반려이력<br/>- 유효기간연장이력 <br/>- 발급이력<br/>- 발급 통계 현황<br/>- 내부 공통사업관리 모듈 연계<br/>파일공통다운로드<br/>로그인인증|   
+  
     <details>
       <summary>📌소상공인 확인서 발급 시스템 구축(2020-06-15 ~ 2020-09-31)</summary>
       </br>
