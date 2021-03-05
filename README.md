@@ -2,7 +2,7 @@ _Contacts._
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qjxjfld13@gmail.com)](mailto:qjxjfld13@gmail.com)
 
-Kakao : qorwdjgh13
+_Kakao : qorwdjgh13_
 
 # 프로필
 
