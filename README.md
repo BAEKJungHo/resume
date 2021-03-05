@@ -23,8 +23,10 @@ _Kakao : qorwdjgh13_
 
 # 블로그
 
-- `Medium` : https://webdevtechblog.com
-- `GitHub` : https://baekjungho.github.io
+<p align="center">    
+    [![Medium Badge](https://img.shields.io/badge/Medium%20Blog-8A0808?style=flat-square&logo=Medium&logoColor=white&link)](https://webdevtechblog.com/)
+    [![GitHub Badge](https://img.shields.io/badge/GitHub%20Blog-000000?style=flat-square&logo=GitHub&logoColor=white&link)](https://baekjungho.github.io/)
+</p>
 
 # 경력
 
