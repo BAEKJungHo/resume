@@ -4,6 +4,8 @@ _Contacts._
 
 _Kakao : qorwdjgh13_
 
+![GitHub last commit](https://img.shields.io/github/last-commit/BAEKJungHo/resume)
+
 # 프로필
 
 - 이름 : 백정호
