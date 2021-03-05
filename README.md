@@ -42,7 +42,6 @@ _Kakao : qorwdjgh13_
 |**디자인시안<br/>관리 프로그램<br/>신규 구축**|2020-10-01~<br/>2020-10-10|IntelliJ, Spring Boot 1.5.4<br/>JDK 1.8, JSP, Javascript, MySQL|- 프로젝트 메인 개발자로 투입<br/>- 디자인시안 관리<br/>- 설문 참여<br />- 통계|   
 |**소상공인<br/>확인서발급시스템<br/>신규 구축**|2020-06-15~<br/>2020-09-31|IntelliJ, Spring Boot 1.5.4<br/>DK 1.8, JDK 1.6, JSP, Javascript, Oracle|- 프로젝트 메인 개발자로 투입<br/>- 내부DB와 로그인 연동<br/>- Jeus8 app 소스배포<br />- 개인정보이력 AOP<br/>- SMS AOP, Scheduler<br/>- 권한 처리<br/>- 엑셀다운로드<br/>- 본인인증<br/>- SSO연계<br/>- 반려이력<br/>- 유효기간연장이력 <br/>- 발급이력<br/>- 발급 통계 현황<br/>- 내부 공통사업관리 모듈 연계<br/>파일공통다운로드<br/>로그인인증이력|   
 |**보령시청<br/>재난지원금신청<br/>신규 구축**|2020-04-20~<br/>2020-05-20|IntelliJ, Spring 3.0.5<br/>JDK 1.6, JSP, Javascript, Tibero|- 긴급재난지원금신청<br/>- 신청 통계|  
-|**명랑핫도그<br/>국문/영문<br/>서버분리**|2020-04-15~<br/>2020-04-15|Linux|- 서버 분리|   
 |**공주대학교<br/>홈페이지 개편**|2020-01-01~<br/>2020-04-10|IntelliJ, Spring Boot 1.5.4<br/>JDK 1.8, JSP, Javascript, Oracle|- 조직도 관리<br/>- 직원 관리<br/>- 교수 관리<br/>- 대용량파일첨부솔루션연계<br/>- 규정집/학칙 PDF 관리<br/>- 시설물 신청 관리<br/>- 무료버스 관리<br/>- 메인, 서브레이아웃 작업<br/>-DataBase Migration|      
 |**한국조폐공사<br/>수정사항 처리**|2019-12-01~<br/>2029-12-31|IntelliJ, Spring Boot 1.5.4<br/>JDK 1.8, JSP, Javascript, Tibero|- 수정사항 처리|    
 |**대전동구청<br/>홈페이지<br/>신규 구축**|2019-09-01~<br/>2029-12-31|IntelliJ, Spring Boot 1.5.4<br/>JDK 1.8, JSP, Javascript, MySQL|- 민원사무편람<br/>- 날씨,미세먼지 공공API<br/>- 사전정보공개<br/>- 정책실명제<br/>- 단체예약프로그램<br/>- 약수터안내<br/>- 예산서공개<br/>- 설문조사<br/>- 팝업 관리<br/>- 일정 관리<br/>- 크롤링을 통한 iframe 관리<br/>- DataBase Migration|     
