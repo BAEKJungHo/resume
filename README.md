@@ -52,6 +52,10 @@
     <details>
       <summary>📌일제강제동원피해자지원재단(2021-03-02 ~ 2021-05-10)</summary>
       </br>
+      <p>개발 툴 : IntelliJ</p>
+      <p>환경 : Spring Boot 1.5.4, JDK 1.8, JSP, MySQL</p>
+      </br>
+      </br>
       <p>프로젝트 메인 개발자로 투입</p>
       <p>사수로서 신입 교육 및 양성</p>
       <p>게시판 및 프로그램 개발</p>
