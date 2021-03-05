@@ -52,7 +52,7 @@
     <details>
       <summary>📌일제강제동원피해자지원재단(2021-03-02 ~ 2021-05-10)</summary>
       </br>
-      <p>개발 툴 : IntelliJ</p>
+      <p><strong>개발 툴 : IntelliJ</strong></p>
       <p>환경 : Spring Boot 1.5.4, JDK 1.8, JSP, MySQL</p>
       </br>
       </br>
