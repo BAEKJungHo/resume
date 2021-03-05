@@ -60,7 +60,7 @@ _Kakao : qorwdjgh13_
 <p align="center">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-227396?style=flat-square&logo=thymeleaf&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Thymeleaf-227396?style=flat-square&logo=thymeleaf&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -70,7 +70,8 @@ _Kakao : qorwdjgh13_
 </p>
 
 <p align="center">    
-    <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-557396?style=flat-square&logo=Linux&logoColor=white"/>
 </p>
 
 ## 웹 백엔드
