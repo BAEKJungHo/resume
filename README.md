@@ -12,7 +12,7 @@ _Kakao : qorwdjgh13_
 - 취미 : 헬스, 게임, 공부
 - MBTI : ISFJ
 - 특징 : 목표 지향적이며 계획적인 사람
-- 모토 : 노력은 배신하지 않는다.
+- [모토 : 노력은 배신하지 않는다.](https://github.com/BAEKJungHo/resume/blob/master/README.md#%EB%AA%A8%ED%86%A0%EC%97%90-%EB%8C%80%ED%95%9C-%EC%86%8C%EA%B0%9C)
 
 # 소개
 
