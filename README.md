@@ -27,54 +27,11 @@
 
 |프로젝트 명|기간|개발환경|담당업무|
 |----------|----|-------|-------|
-|**일제강제동원<br/>피해자지원재단**|2021-03-02~<br/>2021-05-10|IntelliJ, Spring Boot 1.5.4, JDK 1.8, JSP, Javascript, MySQL|- 프로젝트 메인 개발자로 투입<br/>- 사수로서 신입 교육 및 양성<br />- 게시판 및 프로그램 개발|
-|**소상공인<br/>지식나눔터**|2020-12-15~<br/>2021-03-01|IntelliJ, Spring Boot 1.5.4, JDK 1.7, JSP, Javascript, Oracle|- 전체적인 테이블 설계<br/>- 동영상 관리<br />- 더보기 모듈 개발<br/>- 관리자 채널 관리<br/>- 통계<br/>- 통합검색(채널,영상 추가)|
+|**일제강제동원<br/>피해자지원재단<br/>신규 구축**|2021-03-02~<br/>2021-05-10|IntelliJ, Spring Boot 1.5.4, JDK 1.8, JSP, Javascript, MySQL|- 프로젝트 메인 개발자로 투입<br/>- 사수로서 신입 교육 및 양성<br />- 게시판 및 프로그램 개발|
+|**소상공인<br/>지식나눔터<br/>신규 구축**|2020-12-15~<br/>2021-03-01|IntelliJ, Spring Boot 1.5.4, JDK 1.7, JSP, Javascript, Oracle|- 전체적인 테이블 설계<br/>- 동영상 관리<br />- 더보기 모듈 개발<br/>- 관리자 채널 관리<br/>- 통계<br/>- 통합검색(채널,영상 추가)|
+|**여성인재<br/>데이터베이스<br/>신규 구축**|2020-11-15~<br/>2020-12-31|IntelliJ, Spring Boot 1.5.4, JDK 1.8, JSP, Javascript, Oracle|- 직종 관리<br/>- 전문분야 관리<br />- 회원 관리<br/>- 통계|
+|**수자원공사<br/>단비톡톡<br/>추가기능개발**|2020-10-11~<br/>2020-11-15|IntelliJ, Spring Boot 1.5.4, JDK 1.7, JSP, Javascript, Oracle|- 회원관리<br/>- 마일리지 적립/차감<br />- 엑셀 데이터 업로드<br/>- 마일리지 상품구매<br/>- 알림(SMS, EMAIL)<br/>- 본인인증<br/>- 통계<br/>- SSO연계<br/>- DataBase Migration|
 
-
-<details>
-  <summary>Show Details</summary>
-  </br>
-  <details>
-    <summary>🌃(주)메이아이 : 2019-07-01 ~ ing</summary>
-    </br>
-    <details>
-      <summary>📌일제강제동원피해자지원재단(2021-03-02 ~ 2021-05-10)</summary>
-      </br>
-      <p><strong>* Tool : IntelliJ</strong></p>
-      <p><strong>* Environment : Spring Boot 1.5.4, JDK 1.8, JSP, MySQL</strong></p>
-      </br>
-      </br>
-      <p>프로젝트 메인 개발자로 투입</p>
-      <p>사수로서 신입 교육 및 양성</p>
-      <p>게시판 및 프로그램 개발</p>
-    </details>
-    <details>
-      <summary>📌소상공인 지식나눔터 개발(2020-12-15 ~ 2021-02-01)</summary>
-      </br>
-      <p><strong>* Tool : IntelliJ</strong></p>
-      <p><strong>* Environment : Spring Boot 1.5.4, JDK 1.7, JSP, Oracle, Swagger</strong></p>
-      </br>
-      </br>
-      <p>전체적인 테이블 설계</p>
-      <p>동영상 관리</p>
-      <p>더보기 모듈 개발</p>
-      <p>다형성, DIP, OCP, SRP 를 최대한 지키기 위해서 노력.</p>
-      <p>관리자 채널 관리</p>
-      <p>통계</p>
-      <p>통합검색(채널, 영상 추가)</p>
-    </details>
-    <details>
-      <summary>📌여성인재 DB 관리 시스템 개발(2020-11-15 ~ 2020-12-31)</summary>
-      </br>
-      <p><strong>* Tool : IntelliJ</strong></p>
-      <p><strong>* Environment : Spring Boot 1.5.4, JDK 1.8, JSP, Oracle</strong></p>
-      </br>
-      </br>
-      <p>직종관리</p>
-      <p>전문분야관리</p>
-      <p>회원관리</p>
-      <p>통계</p>
-    </details>
     <details>
       <summary>📌수자원공사 단비톡톡 추가 개발 및 기능 개선(2020-10-11 ~ 2020-11-15)</summary>
       </br>
