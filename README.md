@@ -33,104 +33,13 @@
 |**수자원공사<br/>단비톡톡<br/>추가기능개발**|2020-10-11~<br/>2020-11-15|IntelliJ, Spring Boot 1.5.4, JDK 1.7, JSP, Javascript, Oracle|- 회원관리<br/>- 마일리지 적립/차감<br />- 엑셀 데이터 업로드<br/>- 마일리지 상품구매<br/>- 알림(SMS, EMAIL)<br/>- 본인인증<br/>- 통계<br/>- SSO연계<br/>- DataBase Migration|
 |**CMS 리팩터링**|2020-05-21~<br/>2020-06-04|IntelliJ, Spring Boot 1.5.4, JDK 1.7, JSP, Javascript, MySQL|- 게시판 관리<br/>- 권한 관리<br />- 카테고리 관리<br/>- 팝업 관리|
 |**디자인시안<br/>관리 프로그램<br/>신규 구축**|2020-10-01~<br/>2020-10-10|IntelliJ, Spring Boot 1.5.4, JDK 1.8, JSP, Javascript, MySQL|- 디자인시안 관리<br/>- 설문 참여<br />- 통계|   
-|**소상공인<br/>확인서 발급 시스템<br/>신규 구축**|2020-06-15~<br/>2020-09-31|IntelliJ, Spring Boot 1.5.4, JDK 1.8, JDK 1.6, JSP, Javascript, Oracle|- 내부DB와 로그인 연동<br/>- Jeus8 app 소스배포<br />- 개인정보이력 AOP<br/>- SMS AOP, Scheduler<br/>- 권한 처리<br/>- 엑셀다운로드<br/>- 본인인증<br/>- SSO연계<br/>- 반려이력<br/>- 유효기간연장이력 <br/>- 발급이력<br/>- 발급 통계 현황<br/>- 내부 공통사업관리 모듈 연계<br/>파일공통다운로드<br/>로그인인증|   
-  
-    <details>
-      <summary>📌소상공인 확인서 발급 시스템 구축(2020-06-15 ~ 2020-09-31)</summary>
-      </br>
-      <p><strong>* Tool : IntelliJ, Eclipse</strong></p>
-      <p><strong>* Environment : Spring Boot 1.5.4, JDK 1.8(관리자. 신규), JDK1.6(사용자. 대민) JSP, Oracle</strong></p>
-      </br>
-      </br>
-      <p>내부 DB 의 직원 정보 테이블을 이용한 로그인 연동</p>
-      <p>Jeus8 의 app 에 소스 배포</p>
-      <p>개인정보이력 AOP 구현</p>
-      <p>SMS 문자 발송 AOP 와 Scheduler 구현</p>
-      <p>내부 DB 와 연계해서, 자체 DB 에 개인정보 최신화</p>
-      <p>권한 처리</p>
-      <p>엑셀다운로드</p>
-      <p>본인인증</p>
-      <p>SSO 연계</p>
-      <p>내부 공통사업관리 모듈 연계(파일공통다운로드, 인증이력)</p>
-      <p>반려이력, 유효기간연장이력, 발급이력 관리</p>
-      <p>센터별 발급 통계 현황 구현</p>
-      <p>게시판 메인 레이아웃에 붙이기</p>
-    </details>
-    <details>
-      <summary>📌보령시청 긴급재난지원금 신청 개발(2020-04-20 ~ 2020-05-20)</summary>
-      </br>
-      <p><strong>* Tool : IntelliJ</strong></p>
-      <p><strong>* Environment : Spring Boot 1.5.4, JDK 1.7, JSP, Tibero</strong></p>
-      </br>
-      </br>
-      <p>보령시청 긴급재난지원금 신청 개발</p>
-    </details>
-    <details>
-      <summary>📌명랑핫도그 국문/영문 서버 분리(2020-04-15)</summary>
-      </br>
-      <p>명랑핫도그 국문/영문 서버 분리</p>
-    </details>
-    <details>
-      <summary>📌공주대학교 홈페이지 개편(2020-01-01 ~ 2020-04-10)</summary>
-      </br>
-      <p><strong>* Tool : IntelliJ</strong></p>
-      <p><strong>* Environment : Spring Boot 1.5.4, JDK 1.8, JSP, ORACLE</strong></p>
-      </br>
-      </br>
-      <p>대학 대표 조직도, 직원관리 개발(관리자, 사용자)</p>
-      <p>대학 학과 조직도, 직원관리, 교수관리 개발(관리자, 사용자)</p>
-      <p>대용량 파일 첨부 솔루션(nero, AtwoM 회사) 붙이기</p>
-      <p>규정집/학칙 PDF 관리 개발(관리자, 사용자)</p>
-      <p>시설물 신청 관리(관리자, 사용자)</p>
-      <p>무료버스 관리(관리자, 사용자)</p>
-      <p>단과대 메인, 서브 레이아웃 작업</p>
-      <p>단과대 메인 페이지 작업(팝업, 공지, 일정 비동기로 출력)</p>
-      <p>DataBase Migration</p>
-    </details>
-    <details>
-      <summary>📌한국 조폐공사 수정사항 처리(2019-12)</summary>
-      </br>
-      <p>수정사항 처리</p>
-    </details>
-    <details>
-      <summary>📌대전 동구청 홈페이지 개발(2019-09-01 ~ 2019-12-31)</summary>
-      </br>
-      <p><strong>* Tool : IntelliJ</strong></p>
-      <p><strong>* Environment : Spring Boot 1.5.4, JDK 1.8, JSP, MySQL</strong></p>
-      </br>
-      </br>
-      <p>민원사무편람(관리자, 사용자)</p>
-      <p>만족도조사(사용자)</p>
-      <p>날씨, 미세먼지 공공 API</p>
-      <p>사전정보공개(관리자, 사용자)</p>
-      <p>정책실명제(관리자, 사용자)</p>
-      <p>단체예약(관리자, 사용자)</p>
-      <p>약수터안내(관리자, 사용자)</p>
-      <p>예산서공개(관리자, 사용자)</p>
-      <p>설문조사(관리자, 사용자) 추가 개발</p>
-      <p>메인게시판연계(JSON)</p>
-      <p>팝업관리(JSON)</p>
-      <p>썸네일 생성해서 JSP에 출력(DB에서 긁어오지 않고 파일로 출력)</p>
-      <p>관광명소 수정</p>
-      <p>일정관리</p>
-      <p>스크래핑(크롤링)을 통한 IFRAME 관리</p>
-      <p>중점관리대상사업현황(관리자, 사용자)</p>
-      <p>DataBase Migration</p>
-      <p>감리문서 작성</p>
-    </details>
-    <details>
-      <summary>📌CMS 관리(2019-07-01 ~ 2019-08-31)</summary>
-      </br>
-      <p><strong>* Tool : IntelliJ</strong></p>
-      <p><strong>* Environment : Spring Boot 1.5.4, JDK 1.7, JSP, MySQL</strong></p>
-      </br>
-      </br>
-      <p>설문조사 관리 개발</p>
-      <p>파일 관리 개발</p>
-      <p>CMS 사용법 숙지 및 수정사항 처리</p>
-    </details>
-  </details>
-</details>
+|**소상공인<br/>확인서 발급 시스템<br/>신규 구축**|2020-06-15~<br/>2020-09-31|IntelliJ, Spring Boot 1.5.4, JDK 1.8, JDK 1.6, JSP, Javascript, Oracle|- 내부DB와 로그인 연동<br/>- Jeus8 app 소스배포<br />- 개인정보이력 AOP<br/>- SMS AOP, Scheduler<br/>- 권한 처리<br/>- 엑셀다운로드<br/>- 본인인증<br/>- SSO연계<br/>- 반려이력<br/>- 유효기간연장이력 <br/>- 발급이력<br/>- 발급 통계 현황<br/>- 내부 공통사업관리 모듈 연계<br/>파일공통다운로드<br/>로그인인증이력|   
+|**보령시청<br/>긴급재난지원금신청<br/>신규 구축**|2020-04-20~<br/>2020-05-20|IntelliJ, Spring Boot 1.5.4, JDK 1.7, JSP, Javascript, Tibero|- 긴급재난지원금신청<br/>- 신청 통계|  
+|**명랑핫도그<br/>국문/영문<br/>서버분리**|2020-04-15~<br/>2020-04-15|Linux|- 서버 분리|   
+|**공주대학교<br/>홈페이지 개편**|2020-01-01~<br/>2020-04-10|IntelliJ, Spring Boot 1.5.4, JDK 1.8, JSP, Javascript, Oracle|- 조직도 관리<br/>-직원 관리<br/>-교수 관리<br/>-대용량파일첨부솔루션연계<br/>-규정집/학칙 PDF 관리<br/>-시설물 신청 관리<br/>-무료버스 관리<br/>-메인, 서브레이아웃 작업<br/>-DataBase Migration|      
+|**한국조폐공사<br/>수정사항 처리**|2019-12-01~<br/>2029-12-31|IntelliJ, Spring Boot 1.5.4, JDK 1.8, JSP, Javascript, Tibero|- 수정사항 처리|    
+|**대전동구청<br/>홈페이지<br/>신규 구축**|2019-09-01~<br/>2029-12-31|IntelliJ, Spring Boot 1.5.4, JDK 1.8, JSP, Javascript, MySQL|- 민원사무편람<br/>-날씨,미세먼지 공공API<br/>-사전정보공개<br/>-정책실명제<br/>-단체예약프로그램<br/>-약수터안내<br/>-예산서공개<br/>-설문조사<br/>-팝업 관리<br/>-일정 관리<br/>-크롤링을 통한 iframe 관리<br/>-DataBase Migration|     
+|**CMS 관리**|2020-10-01~<br/>2020-10-10|IntelliJ, Spring Boot 1.5.4, JDK 1.7, JSP, Javascript, MySQL|- 설문조사 관리<br/>- 파일 관리<br />- 수정사항 처리|         
 
 # 보유 기술 및 사용도구
 
