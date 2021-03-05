@@ -70,7 +70,7 @@
 |----------|----|-------|---|----|
 |**Korea Workout<br/>Community**|2021-03-15~<br/>2021-06-13|IntelliJ, Spring Boot 2.4.1, JDK 11<br/>JPA, JUnit5, Gradle 6.7.1<br/>Thymeleaf 3, AWS, GitHub, JIRA<br/>PostgreSQL, OAuth2|- PT 예약 관리<br/>- 지도 검색<br />- 업체 홍보|-|
 
-> (주)메이아이 회사에 재직하면서 사이드 프로젝트를 할 팀원 디자이너, 퍼블리셔를 모집해서 사이드 프로젝트 진행
+> [Okky 사이드 프로젝트 모집 공고 글](https://okky.kr/article/880260)
 
 ## 컨퍼런스 참여
 
