@@ -28,12 +28,12 @@
 |프로젝트 명|기간|개발환경|담당업무|
 |----------|----|-------|-------|
 |**일제강제동원<br/>피해자지원재단<br/>신규 구축**|2021-03-02~<br/>2021-05-10|IntelliJ, Spring Boot 1.5.4, JDK 1.8, JSP, Javascript, MySQL|- 프로젝트 메인 개발자로 투입<br/>- 사수로서 신입 교육 및 양성<br />- 게시판 및 프로그램 개발|
-|**소상공인<br/>지식나눔터<br/>신규 구축**|2020-12-15~<br/>2021-03-01|IntelliJ, Spring Boot 1.5.4, JDK 1.7, JSP, Javascript, Oracle|- 전체적인 테이블 설계<br/>- 동영상 관리<br />- 더보기 모듈 개발<br/>- 관리자 채널 관리<br/>- 통계<br/>- 통합검색(채널,영상 추가)|
+|**소상공인<br/>지식나눔터<br/>신규 구축**|2020-12-15~<br/>2021-03-01|IntelliJ, Spring Boot 1.5.4, JDK 1.7, JSP, Javascript, Oracle|- 프로젝트 메인 개발자로 투입<br/>- 전체적인 테이블 설계<br/>- 동영상 관리<br />- 더보기 모듈 개발<br/>- 관리자 채널 관리<br/>- 통계<br/>- 통합검색(채널,영상 추가)|
 |**여성인재<br/>데이터베이스<br/>신규 구축**|2020-11-15~<br/>2020-12-31|IntelliJ, Spring Boot 1.5.4, JDK 1.8, JSP, Javascript, Oracle|- 직종 관리<br/>- 전문분야 관리<br />- 회원 관리<br/>- 통계|
-|**수자원공사<br/>단비톡톡<br/>추가기능개발**|2020-10-11~<br/>2020-11-15|IntelliJ, Spring Boot 1.5.4, JDK 1.7, JSP, Javascript, Oracle|- 회원관리<br/>- 마일리지 적립/차감<br />- 엑셀 데이터 업로드<br/>- 마일리지 상품구매<br/>- 알림(SMS, EMAIL)<br/>- 본인인증<br/>- 통계<br/>- SSO연계<br/>- DataBase Migration|
+|**수자원공사<br/>단비톡톡<br/>추가기능개발**|2020-10-11~<br/>2020-11-15|IntelliJ, Spring Boot 1.5.4, JDK 1.7, JSP, Javascript, Oracle|- 프로젝트 메인 개발자로 투입<br/>- 회원관리<br/>- 마일리지 적립/차감<br />- 엑셀 데이터 업로드<br/>- 마일리지 상품구매<br/>- 알림(SMS, EMAIL)<br/>- 본인인증<br/>- 통계<br/>- SSO연계<br/>- DataBase Migration|
 |**CMS 리팩터링**|2020-05-21~<br/>2020-06-04|IntelliJ, Spring Boot 1.5.4, JDK 1.7, JSP, Javascript, MySQL|- 게시판 관리<br/>- 권한 관리<br />- 카테고리 관리<br/>- 팝업 관리|
-|**디자인시안<br/>관리 프로그램<br/>신규 구축**|2020-10-01~<br/>2020-10-10|IntelliJ, Spring Boot 1.5.4, JDK 1.8, JSP, Javascript, MySQL|- 디자인시안 관리<br/>- 설문 참여<br />- 통계|   
-|**소상공인<br/>확인서발급시스템<br/>신규 구축**|2020-06-15~<br/>2020-09-31|IntelliJ, Spring Boot 1.5.4, JDK 1.8, JDK 1.6, JSP, Javascript, Oracle|- 내부DB와 로그인 연동<br/>- Jeus8 app 소스배포<br />- 개인정보이력 AOP<br/>- SMS AOP, Scheduler<br/>- 권한 처리<br/>- 엑셀다운로드<br/>- 본인인증<br/>- SSO연계<br/>- 반려이력<br/>- 유효기간연장이력 <br/>- 발급이력<br/>- 발급 통계 현황<br/>- 내부 공통사업관리 모듈 연계<br/>파일공통다운로드<br/>로그인인증이력|   
+|**디자인시안<br/>관리 프로그램<br/>신규 구축**|2020-10-01~<br/>2020-10-10|IntelliJ, Spring Boot 1.5.4, JDK 1.8, JSP, Javascript, MySQL|- 프로젝트 메인 개발자로 투입<br/>- 디자인시안 관리<br/>- 설문 참여<br />- 통계|   
+|**소상공인<br/>확인서발급시스템<br/>신규 구축**|2020-06-15~<br/>2020-09-31|IntelliJ, Spring Boot 1.5.4, JDK 1.8, JDK 1.6, JSP, Javascript, Oracle|- 프로젝트 메인 개발자로 투입<br/>- 내부DB와 로그인 연동<br/>- Jeus8 app 소스배포<br />- 개인정보이력 AOP<br/>- SMS AOP, Scheduler<br/>- 권한 처리<br/>- 엑셀다운로드<br/>- 본인인증<br/>- SSO연계<br/>- 반려이력<br/>- 유효기간연장이력 <br/>- 발급이력<br/>- 발급 통계 현황<br/>- 내부 공통사업관리 모듈 연계<br/>파일공통다운로드<br/>로그인인증이력|   
 |**보령시청<br/>재난지원금신청<br/>신규 구축**|2020-04-20~<br/>2020-05-20|IntelliJ, Spring Boot 1.5.4, JDK 1.7, JSP, Javascript, Tibero|- 긴급재난지원금신청<br/>- 신청 통계|  
 |**명랑핫도그<br/>국문/영문<br/>서버분리**|2020-04-15~<br/>2020-04-15|Linux|- 서버 분리|   
 |**공주대학교<br/>홈페이지 개편**|2020-01-01~<br/>2020-04-10|IntelliJ, Spring Boot 1.5.4, JDK 1.8, JSP, Javascript, Oracle|- 조직도 관리<br/>- 직원 관리<br/>- 교수 관리<br/>- 대용량파일첨부솔루션연계<br/>- 규정집/학칙 PDF 관리<br/>- 시설물 신청 관리<br/>- 무료버스 관리<br/>- 메인, 서브레이아웃 작업<br/>-DataBase Migration|      
