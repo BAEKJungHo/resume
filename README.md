@@ -64,19 +64,9 @@
 
 ## 사이드 프로젝트
 
-- `프로젝트 명`
-  - 기간 : 2021-03-15 ~ 2021-06-13
-  - 설명 : 핵심 기능은 `PT 예약 관리`. PT 예약 뿐만 아니라 모든 헬스장을 지도에서 찾아 볼 수 있고, 홍보까지 가능하다.
-  - 홈페이지 : -
-  - 기술스택
-    - Spring Boot 2.4.1
-    - JPA, JUnit5, Java 11
-    - Gradle 6.7.1
-    - Thymeleaf 3
-    - AWS, GitHub
-    - JIRA
-    - PostgreSQL
-    - OAuth2
+|프로젝트 명|기간|개발환경|소개|링크|
+|----------|----|-------|---|----|
+|**Korea Workout Community**|2021-03-15~<br/>2021-06-13|IntelliJ, Spring Boot 2.4.1, JDK 11<br/>JPA, JUnit5, Gradle 6.7.1<br/>Thymeleaf 3, AWS, GitHub, JIRA<br/>PostgreSQL, OAuth2|- 핵심 기능은 `PT 예약 관리`<br/>-지도 검색<br />- 업체 홍보|-|
 
 > (주)메이아이 회사에 재직하면서 사이드 프로젝트를 할 팀원 디자이너, 퍼블리셔를 모집해서 사이드 프로젝트 진행
 
