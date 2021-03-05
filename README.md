@@ -52,8 +52,8 @@
     <details>
       <summary>📌일제강제동원피해자지원재단(2021-03-02 ~ 2021-05-10)</summary>
       </br>
-      <p><strong>개발 툴 : IntelliJ</strong></p>
-      <p>환경 : Spring Boot 1.5.4, JDK 1.8, JSP, MySQL</p>
+      <p><strong>* Tool : IntelliJ</strong></p>
+      <p><strong>* Environment : Spring Boot 1.5.4, JDK 1.8, JSP, MySQL</strong></p>
       </br>
       </br>
       <p>프로젝트 메인 개발자로 투입</p>
@@ -62,6 +62,10 @@
     </details>
     <details>
       <summary>📌소상공인 지식나눔터 개발(2020-12-15 ~ 2021-02-01)</summary>
+      </br>
+      <p><strong>* Tool : IntelliJ</strong></p>
+      <p><strong>* Environment : Spring Boot 1.5.4, JDK 1.7, JSP, Oracle, Swagger</strong></p>
+      </br>
       </br>
       <p>전체적인 테이블 설계</p>
       <p>동영상 관리</p>
@@ -74,6 +78,10 @@
     <details>
       <summary>📌여성인재 DB 관리 시스템 개발(2020-11-15 ~ 2020-12-31)</summary>
       </br>
+      <p><strong>* Tool : IntelliJ</strong></p>
+      <p><strong>* Environment : Spring Boot 1.5.4, JDK 1.8, JSP, Oracle</strong></p>
+      </br>
+      </br>
       <p>직종관리</p>
       <p>전문분야관리</p>
       <p>회원관리</p>
@@ -81,6 +89,11 @@
     </details>
     <details>
       <summary>📌수자원공사 단비톡톡 추가 개발 및 기능 개선(2020-10-11 ~ 2020-11-15)</summary>
+      </br>
+      <p><strong>* Tool : IntelliJ</strong></p>
+      <p><strong>* Environment : Spring Boot 1.5.4, JDK 1.7, JSP, Oracle</strong></p>
+      <p><strong>* 특이사항 : 개발서버 Tomcat7, 운영서버 : Jeus6</strong></p>
+      </br>
       </br>
       <p>회원가입</p>
       <p>회원정보수정</p>
@@ -104,15 +117,27 @@
     <details>
       <summary>📌CMS 리팩터링(2020-05-21 ~ 2020-06-04)</summary>
       </br>
+      <p><strong>* Tool : IntelliJ</strong></p>
+      <p><strong>* Environment : Spring Boot 1.5.4, JDK 1.7, JSP, MySQL</strong></p>
+      </br>
+      </br>
       <p>CMS 리팩터링</p>
     </details>
     <details>
       <summary>📌디자인시안 관리 프로그램 개발(2020-10-01 ~ 2020-10-10)</summary>
       </br>
+      <p><strong>* Tool : IntelliJ</strong></p>
+      <p><strong>* Environment : Spring Boot 1.5.4, JDK 1.8, JSP, MySQL</strong></p>
+      </br>
+      </br>
       <p>디자인시안 관리 프로그램 개발</p>
     </details>
     <details>
       <summary>📌소상공인 확인서 발급 시스템 구축(2020-06-15 ~ 2020-09-31)</summary>
+      </br>
+      <p><strong>* Tool : IntelliJ, Eclipse</strong></p>
+      <p><strong>* Environment : Spring Boot 1.5.4, JDK 1.8(관리자. 신규), JDK1.6(사용자. 대민) JSP, Oracle</strong></p>
+      </br>
       </br>
       <p>내부 DB 의 직원 정보 테이블을 이용한 로그인 연동</p>
       <p>Jeus8 의 app 에 소스 배포</p>
@@ -131,6 +156,10 @@
     <details>
       <summary>📌보령시청 긴급재난지원금 신청 개발(2020-04-20 ~ 2020-05-20)</summary>
       </br>
+      <p><strong>* Tool : IntelliJ</strong></p>
+      <p><strong>* Environment : Spring Boot 1.5.4, JDK 1.7, JSP, Tibero</strong></p>
+      </br>
+      </br>
       <p>보령시청 긴급재난지원금 신청 개발</p>
     </details>
     <details>
@@ -140,6 +169,10 @@
     </details>
     <details>
       <summary>📌공주대학교 홈페이지 개편(2020-01-01 ~ 2020-04-10)</summary>
+      </br>
+      <p><strong>* Tool : IntelliJ</strong></p>
+      <p><strong>* Environment : Spring Boot 1.5.4, JDK 1.8, JSP, ORACLE</strong></p>
+      </br>
       </br>
       <p>대학 대표 조직도, 직원관리 개발(관리자, 사용자)</p>
       <p>대학 학과 조직도, 직원관리, 교수관리 개발(관리자, 사용자)</p>
@@ -158,6 +191,10 @@
     </details>
     <details>
       <summary>📌대전 동구청 홈페이지 개발(2019-09-01 ~ 2019-12-31)</summary>
+      </br>
+      <p><strong>* Tool : IntelliJ</strong></p>
+      <p><strong>* Environment : Spring Boot 1.5.4, JDK 1.8, JSP, MySQL</strong></p>
+      </br>
       </br>
       <p>민원사무편람(관리자, 사용자)</p>
       <p>만족도조사(사용자)</p>
@@ -181,7 +218,13 @@
     <details>
       <summary>📌CMS 관리(2019-07-01 ~ 2019-08-31)</summary>
       </br>
-      <p>Spring Boot 1.5.4 (using JDK 1.7, Spring Framework 4.3.9 RELEASE or above</p>
+      <p><strong>* Tool : IntelliJ</strong></p>
+      <p><strong>* Environment : Spring Boot 1.5.4, JDK 1.7, JSP, MySQL</strong></p>
+      </br>
+      </br>
+      <p>설문조사 관리 개발</p>
+      <p>파일 관리 개발</p>
+      <p>CMS 사용법 숙지 및 수정사항 처리</p>
     </details>
   </details>
 </details>
