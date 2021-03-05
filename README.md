@@ -28,7 +28,7 @@
 |프로젝트 명|기간|개발환경|담당업무|
 |----------|----|-------|-------|
 |**일제강제동원<br/>피해자지원재단<br/>신규 구축**|2021-03-02~<br/>2021-05-10|IntelliJ, Spring Boot 1.5.4<br/>JDK 1.8, JSP, Javascript, MySQL|- 프로젝트 메인 개발자로 투입<br/>- 사수로서 신입 교육 및 양성<br />- 게시판 및 프로그램 개발|
-|**소상공인<br/>지식나눔터<br/>신규 구축**|2020-12-15~<br/>2021-03-01|IntelliJ, Spring Boot 1.5.4<br/>JDK 1.7, JSP, Javascript, Oracle|- 프로젝트 메인 개발자로 투입<br/>- 전체적인 테이블 설계<br/>- 동영상 관리<br />- 더보기 모듈 개발<br/>- 관리자 채널 관리<br/>- 통계<br/>- 통합검색(채널,영상 추가)|
+|**소상공인<br/>지식나눔터<br/>신규 구축**|2020-12-15~<br/>2021-03-01|IntelliJ, Spring Boot 1.5.4<br/>JDK 1.7, JSP, Javascript, Oracle|- 프로젝트 메인 개발자로 투입<br/>- API 문서화를 위해 Swagger 도입<br/>- 전체적인 테이블 설계<br/>- 동영상 관리<br />- 더보기 모듈 개발<br/>- 관리자 채널 관리<br/>- 통계<br/>- 통합검색(채널,영상 추가)|
 |**여성인재<br/>데이터베이스<br/>신규 구축**|2020-11-15~<br/>2020-12-31|IntelliJ, Spring Boot 1.5.4<br/>JDK 1.8, JSP, Javascript, Oracle|- 직종 관리<br/>- 전문분야 관리<br />- 회원 관리<br/>- 통계|
 |**수자원공사<br/>단비톡톡<br/>추가기능개발**|2020-10-11~<br/>2020-11-15|IntelliJ, Spring Boot 1.5.4<br/>JDK 1.7, JSP, Javascript, Oracle|- 프로젝트 메인 개발자로 투입<br/>- 회원관리<br/>- 마일리지 적립/차감<br />- 엑셀 데이터 업로드<br/>- 마일리지 상품구매<br/>- 알림(SMS, EMAIL)<br/>- 본인인증<br/>- 통계<br/>- SSO연계<br/>- DataBase Migration|
 |**CMS 리팩터링**|2020-05-21~<br/>2020-06-04|IntelliJ, Spring Boot 1.5.4<br/>JDK 1.7, JSP, Javascript, MySQL|- 게시판 관리<br/>- 권한 관리<br />- 카테고리 관리<br/>- 팝업 관리|
@@ -68,7 +68,7 @@
 
 |프로젝트 명|기간|개발환경|소개|링크|
 |----------|----|-------|---|----|
-|**Korea Workout<br/>Community**|2021-03-15~<br/>2021-06-13|IntelliJ, Spring Boot 2.4.1, JDK 11<br/>JPA, JUnit5, Gradle 6.7.1<br/>Thymeleaf 3, AWS, GitHub, JIRA<br/>PostgreSQL, OAuth2|- PT 예약 관리<br/>-지도 검색<br />- 업체 홍보|-|
+|**Korea Workout<br/>Community**|2021-03-15~<br/>2021-06-13|IntelliJ, Spring Boot 2.4.1, JDK 11<br/>JPA, JUnit5, Gradle 6.7.1<br/>Thymeleaf 3, AWS, GitHub, JIRA<br/>PostgreSQL, OAuth2|- PT 예약 관리<br/>- 지도 검색<br />- 업체 홍보|-|
 
 > (주)메이아이 회사에 재직하면서 사이드 프로젝트를 할 팀원 디자이너, 퍼블리셔를 모집해서 사이드 프로젝트 진행
 
