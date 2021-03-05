@@ -1,4 +1,4 @@
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qjxjfld13@gmail.com)](mailto:qjxjfld13@gmail.com)
+_Contatcs_ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qjxjfld13@gmail.com)](mailto:qjxjfld13@gmail.com) Kakao : qorwdjgh13
 
 # 프로필
 
@@ -6,7 +6,6 @@
 - 취미 : 헬스, 게임, 공부
 - MBTI : ISFJ
 - 특징 : 목표 지향적이며 계획적인 사람
-- Kakao : qorwdjgh13
 - 모토 : 노력은 배신하지 않는다.
 
 # 소개
