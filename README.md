@@ -1,4 +1,4 @@
-_Contatcs_
+_Contacts._
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qjxjfld13@gmail.com)](mailto:qjxjfld13@gmail.com)
 
