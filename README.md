@@ -105,8 +105,6 @@ _Kakao : qorwdjgh13_
 - OKKYCON: 2021 협업의 기술
   - 개발자와 개발조직의 생산성을 높이는 스마트한 협업
   - [OKKYCON 2021 후기/세미나 내용 정리](https://baekjungho.github.io/conference-okky2021)
-- DevGround 2021
-  - 개발자, 나의 성장을 도왔던 것들
   
 # 이상향
 
